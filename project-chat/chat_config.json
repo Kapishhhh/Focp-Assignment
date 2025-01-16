@@ -1,0 +1,18 @@
+{
+    "agent_names": ["Google" ," Alexa", "Siri"],
+    "responses": {
+        "how are you": "Its all good. How can I assist you today?",
+        "library": "The library is open daily from 7 AM to 7 PM. Where you can get all the information and the books",
+        "admission": "Admissions are open now! You can apply through our online site i.e, www.tbc.com.",
+        "scholarship available": "Scholarship applications are due by the end of this month i.e. January.",
+        "coffee": "The college coffee shop is open from 6 AM to 8 PM.",
+        "sports": "The sports is available for students from 6 AM to 5 PM.",
+        "hostel": "Hostel accommodations are allocated during the admission process.",
+        "events": "Check the events calendar on our website for upcoming activities.",
+        "fees": "Fee structures are available on the university's official site."
+    },
+    "random_responses": [
+        "Ok! Feel free to ask any questions you may have.",
+        "OK! I'm here to help! Don't hesitate to ask if you need assistance."
+]
+}

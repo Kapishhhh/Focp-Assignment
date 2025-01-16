@@ -1,0 +1,6 @@
+kapish: ok
+ Alexa: I'm here to help! Don't hesitate to ask if you need assistance.
+kapish: how are you
+ Alexa: Its all good. How can I assist you today?
+kapish: tell me somethin about university library
+ Alexa: The library is open daily from 7 AM to 7 PM.
